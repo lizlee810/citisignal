@@ -346,7 +346,8 @@
               }
             }
           }
-        },{
+        },
+        {
           "title": "FiberOffer",
           "id": "fiberoffer",
           "plugins": {
@@ -364,7 +365,7 @@
             }
           }
         }
-        
+        ,
         {
           "title": "Table",
           "id": "table",
